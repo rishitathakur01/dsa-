@@ -413,10 +413,42 @@ while(i<=n){
 
 }
 
+1234554321
+1234*4321
+123***321
+12*****21
+1*******1
+int i=1;
+while(i<=n){
+    //first triangle
+    int j=1;
+    while(j<=n-i+1){
+        cout<<j;
+        j=j+1;
+    }
+//2nd trainge
+    int star=1;
+    while(star<=i-1){
+        cout<<"*";
+        star=star+1;
+    }
+//3rd triangle 
+    int star2=1;
+    while(star2<=i-2){
+        cout<<"*";
+        star2=star2+1;
+    }
 
+    //4rth triangle
 
+    int k=j-1;
+    while(k){
+        cout<<k;
+        k=k-1;
+    }
+    cout<<endl;
+    i=i+1;
+}
 
-    
-    
     return 0;
 }
