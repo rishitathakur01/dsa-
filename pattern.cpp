@@ -243,7 +243,22 @@ while(i<=n){
     i=i+1;
 }
 
+int i=1;
+
+while(i<=n){
+     
+    int j =1;
+    char count='A'+i+j-2 ;
+   
+    while(j<=i){
     
+    cout<<count;
+    count=count+1;
+        j=j+1;
+    }
+    cout<<endl;
+    i=i+1;
+}
     
     return 0;
 }
