@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-int n;
-cin>>n;
+// int n;
+// cin>>n;
 
 // int i=1;
 
@@ -32,18 +32,30 @@ cin>>n;
 // }
 // cout<<sum;
 
-int i=2;
-while(i<n){
+// int i=2;
+// while(i<n){
 
-    if(n%i==0){
-        cout<<"not prime "<<i<<endl;
-    }
-    else{
-        cout<<"prime "<<i<<endl;
-    }
-    i=i+1;
+//     if(n%i==0){
+//         cout<<"not prime "<<i<<endl;
+//     }
+//     else{
+//         cout<<"prime "<<i<<endl;
+//     }
+//     i=i+1;
+// }
+
+//////////////////////////////////////////////////////
+//FOR LOOP
+
+int n;
+cin>>n;
+// for(int i=1;i<=n;i++){
+//     cout<<i<<endl;
+// }
+for(; ; ){//for does not know when to stop when conditions are not given;
+    //CAN USE BREAK SO THAT YOU CAN COME OUT OF CURRENT LOOP
+
 }
-
 
 return 0;
 
