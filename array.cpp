@@ -1,4 +1,4 @@
-//ARRAY
+//ARRAY->a set of similar datatypes
 #include <iostream>
 using namespace std;
 //if we know that entire data is of similar datatypes them we can use array
