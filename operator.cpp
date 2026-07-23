@@ -1,3 +1,12 @@
+// Types of Operators in C++
+// Arithmetic Operators: +, -, *, /, %
+// Relational (Comparison) Operators: ==, !=, >, <, >=, <=
+// Logical Operators: &&, ||, !
+// Assignment Operators: =, +=, -=, *=, /=, %=
+// Increment/Decrement Operators: ++, --
+// Bitwise Operators: &, |, ^, ~, <<, >>
+// Conditional (Ternary) Operator: ?:
+
 #include <iostream>
 using namespace std;
 int main(){
