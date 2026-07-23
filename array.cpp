@@ -1,4 +1,14 @@
 //ARRAY->a set of similar datatypes
+// An array is a collection of elements of the same data type stored in contiguous memory locations.
+// Each element is accessed using an index.
+// In C++, array indexing starts from 0.
+// Arrays have a fixed size that is specified when they are declared.
+// Elements can be accessed, updated, and traversed efficiently using loops.
+// Arrays provide constant-time (O(1)) access to an element using its index.
+// They are useful for storing multiple values under a single variable name.
+// Arrays can be one-dimensional (1D) or multi-dimensional (2D, 3D, etc.).
+// Accessing an index outside the array's bounds results in undefined behavior in C++.
+// Arrays are commonly used in algorithms for searching, sorting, and data processing.
 #include <iostream>
 using namespace std;
 //if we know that entire data is of similar datatypes them we can use array
