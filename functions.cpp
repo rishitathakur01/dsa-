@@ -6,6 +6,11 @@ using namespace std;
 // they increase readabilty
 // used to use same code multiple times
 
+
+// A function is a block of code that performs a specific task.
+// Functions help in code reusability, modularity, and make programs easier to read and maintain.
+// A function can take parameters (arguments) and return a value or void if it returns nothing.
+
 // void->THAT DOESNT RETURN ANYTHING
 // RETURN
 // PARAMETRIZED
