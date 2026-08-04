@@ -5,7 +5,4 @@ did atleast 25+ questions of patterns to strenthen my logic building skiils
 ..
 gcfhjfh
 rgfhj,mngkjwng
-ekjfdskjf,wjehgj,wehhrl;opohrlliohello
-emngskjgnggwnsjghsjlhgnsldgahrsgkjjshgi
-wiss uyo hiow aew yuri
-ksuhiue
+ekjfdskjf,wjehgj,wehhrl;opohrlliohel
