@@ -7,5 +7,5 @@ did atleast 25+ questions of patterns to strenthen my logic building skills.
 //////\\\\\\////
 /////\\\\\
 ///\\\
-////\\\\\\\\\\\
+////\\\\\\\\\\\///////
 /////////
